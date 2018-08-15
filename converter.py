@@ -2,6 +2,8 @@
 import imageio
 import numpy as np
 import scipy.ndimage
+import matplotlib
+matplotlib.use('PS')
 import matplotlib.pyplot as plt
 import argparse
 
